@@ -958,7 +958,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   teleport: {fileID: 1886080836}
-  activationDistance: 4
+  activationDistance: 3
 --- !u!1 &245516433
 GameObject:
   m_ObjectHideFlags: 0
