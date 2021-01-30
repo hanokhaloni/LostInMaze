@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1397001985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1eac7bb295a30739c883616cc5227f35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/room_atlas_02_msm.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/room_atlas_02_emi.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/floor_wood_02_dif.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/room_atlas_02.png
+- Assets/m31_teleporter_FX/01_FX_texture/FxT_scar_blue.png
+- Assets/m31_teleporter_FX/01_FX_texture/FxT_sharpline_blue.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/room_atlas_02_nml.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/grid_01_dark.png
+- Assets/m31_teleporter_FX/01_FX_texture/FxT_tlpt_alpha2.png
+- Assets/m31_teleporter_FX/01_FX_texture/FxT_empty_blue.png
+- Assets/Darth_Artisan/Free_Trees/Textures/tree_diffuse.png
+Dependencies: []

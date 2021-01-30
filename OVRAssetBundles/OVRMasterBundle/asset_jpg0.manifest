@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3022478138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac80e4b68c6b4859dd36f885b1aeea05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/ball_billiard_10_dif.jpg
+Dependencies: []

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3096359177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99bc69dc12538357c68303e24f0f3adb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b48f5048164b4cd7f73cc9f8cf76aa5d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/SoccerBlack.mat
+- Assets/Materials/FloorMat.mat
+- Assets/m31_teleporter_FX/03_FX_object/Materials/Fx_Object.mat
+- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/Ball10WithOutline.mat
+- Assets/m31_teleporter_FX/02_FX_material/FxM_empty_blue.mat
+- Assets/m31_teleporter_FX/02_FX_material/FxM_tlpt_alpha.mat
+- Assets/Materials/WallMat.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/SoccerWhite.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/MAT_room_atlas_02.mat
+- Assets/m31_teleporter_FX/02_FX_material/FxM_scar_blue_2x.mat
+- Assets/Darth_Artisan/Free_Trees/Meshes/Materials/No Name.mat
+- Assets/m31_teleporter_FX/03_FX_object/Materials/telepoter.mat
+- Assets/m31_teleporter_FX/02_FX_material/FxM_sharpline_blue.mat
+- Assets/Darth_Artisan/Free_Trees/Meshes/Materials/Free_Tree.mat
+- Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat
+Dependencies:
+- C:/Users/hanok/Projects/LostInMaze/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/hanok/Projects/LostInMaze/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/hanok/Projects/LostInMaze/OVRAssetBundles/OVRMasterBundle/asset_shader0
